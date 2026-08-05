@@ -1,0 +1,15 @@
+{
+  "siteName": "UMTECH",
+  "logoUrl": "/logo.png",
+  "faviconUrl": "/favicon.ico",
+  "theme": "dark",
+  "seoTitle": "UMTECH - Full-Stack Developer & UI/UX Designer",
+  "seoDescription": "",
+  "metaTags": "",
+  "googleAnalyticsId": "",
+  "emailHost": "smtp.gmail.com",
+  "emailPort": "587",
+  "emailUser": "",
+  "emailPass": "",
+  "maintenanceMode": false
+}

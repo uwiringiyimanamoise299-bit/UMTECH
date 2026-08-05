@@ -1,0 +1,78 @@
+[
+  {
+    "id": "1783514556042",
+    "name": "moise",
+    "email": "uwiringiyimanamoise911@gmail.com",
+    "phone": "0780302192",
+    "company": "MONTANA DEVELOPER",
+    "subject": "rr2d",
+    "message": "fdqiuuiqdiuiuwq",
+    "read": true,
+    "replied": true,
+    "createdAt": "2026-07-08T12:42:36.042Z",
+    "reply": "hjuskicdA"
+  },
+  {
+    "id": "1783971842235",
+    "name": "Uwiringiyimana Moise",
+    "email": "uwiringiyimanamoise299@gmail.com",
+    "phone": "0890302192",
+    "company": "MONTANA DEVELOPER",
+    "subject": "w1e22",
+    "message": "r211",
+    "read": true,
+    "replied": true,
+    "createdAt": "2026-07-13T19:44:02.235Z",
+    "reply": "ok nakibzo"
+  },
+  {
+    "id": "1784036130461",
+    "name": "Test User",
+    "email": "test@test.com",
+    "phone": "",
+    "company": "",
+    "subject": "Hello",
+    "message": "Testing the contact form",
+    "read": true,
+    "replied": true,
+    "createdAt": "2026-07-14T13:35:30.461Z",
+    "reply": "ziba"
+  },
+  {
+    "id": "1784222851313",
+    "name": "hi",
+    "email": "uwiringiyimanamoise299@gmail.com",
+    "phone": "0890302192",
+    "company": "MONTANA DEVELOPER",
+    "subject": "kgf",
+    "message": "qqtr3",
+    "read": true,
+    "replied": true,
+    "createdAt": "2026-07-16T17:27:31.313Z",
+    "reply": "guyyiiioooo"
+  },
+  {
+    "id": "1784309690270",
+    "name": "86",
+    "email": "uwiringiyimanamoise299@gmail.com",
+    "phone": "8888",
+    "company": "8e8",
+    "subject": "77878",
+    "message": "4we7w3",
+    "read": false,
+    "replied": false,
+    "createdAt": "2026-07-17T17:34:50.271Z"
+  },
+  {
+    "id": "1785575076085",
+    "name": "Bolingo David",
+    "email": "bolingodavid60@gmail.com",
+    "phone": "0780302192",
+    "company": "umtech",
+    "subject": "sorftware",
+    "message": "hello",
+    "read": false,
+    "replied": false,
+    "createdAt": "2026-08-01T09:04:36.085Z"
+  }
+]

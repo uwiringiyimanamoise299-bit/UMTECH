@@ -1,0 +1,30 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    // Helper: Check if user is logged in
+    function isLoggedIn() {
+      return request.auth != null;
+    }
+
+    // Helper: Check if the user is an admin
+    function isAdmin() {
+      return isLoggedIn() && (
+        request.auth.token.admin == true ||
+        request.auth.token.role == 'admin' ||
+        request.auth.token.role == 'superadmin'
+      );
+    }
+
+    // Public folder for media uploads (cover images, screenshots, etc.)
+    // Anyone can read, only admin can write or delete
+    match /public/{allPaths=**} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    // Fallback: Default lock-down for all other directories
+    match /{allPaths=**} {
+      allow read, write: if isAdmin();
+    }
+  }
+}

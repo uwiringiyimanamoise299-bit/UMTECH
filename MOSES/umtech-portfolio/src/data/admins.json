@@ -1,0 +1,10 @@
+[
+  {
+    "uid": "admin-1",
+    "name": "Uwiringiyimana Moise",
+    "email": "uwiringiyimanamoise299@gmail.com",
+    "passwordHash": "$2a$12$/wiHYUumovWWLq2wMUkxVO2QuNqTgSAaxbN9YPuTHquOvvGZS1qwG",
+    "role": "superadmin",
+    "createdAt": "2026-07-07T13:25:07.915Z"
+  }
+]

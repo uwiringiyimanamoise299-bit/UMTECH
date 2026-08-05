@@ -1,0 +1,297 @@
+⚠ Slow filesystem detected. The benchmark took 809ms. If C:\UMTECH\MOSES\umtech-portfolio\.next/dev is a network drive, consider moving it to a local folder.
+See more: https://nextjs.org/docs/app/guides/local-development
+⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[browser] Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly. (<anonymous>)
+[2026-08-03T07:43:46.563Z]  @firebase/firestore: Firestore (10.14.1): Could not reach Cloud Firestore backend. Backend didn't respond within 10 seconds.
+This typically indicates that your device does not have a healthy Internet connection at the moment. The client will operate in offline mode until it is able to successfully connect to the backend.
+Error fetching projects: [Error [FirebaseError]: Failed to get document because the client is offline.] {
+  code: 'unavailable',
+  customData: undefined,
+  toString: [Function (anonymous)]
+}
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[2026-08-03T07:45:10.551Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e228254 error. Code: 14 Message: 14 UNAVAILABLE: read ECONNRESET
+Error fetching projects: [Error [FirebaseError]: Failed to get document because the client is offline.] {
+  code: 'unavailable',
+  customData: undefined,
+  toString: [Function (anonymous)]
+}
+Error fetching projects: [Error [FirebaseError]: Failed to get document because the client is offline.] {
+  code: 'unavailable',
+  customData: undefined,
+  toString: [Function (anonymous)]
+}
+[2026-08-03T07:45:40.223Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e228255 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:45:40.217Z)
+[2026-08-03T07:45:51.237Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e228256 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:45:40.217Z)
+[2026-08-03T07:45:52.411Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e228257 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:45:40.217Z)
+[2026-08-03T07:46:12.058Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228258 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:45:40.217Z)
+[2026-08-03T07:46:12.062Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228259 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:45:40.217Z)
+[2026-08-03T07:46:12.737Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22825a error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:45:40.217Z)
+[2026-08-03T07:46:13.705Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22825b error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:45:40.217Z)
+[2026-08-03T07:46:16.569Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22825c error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:45:40.217Z)
+[2026-08-03T07:46:20.905Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22825d error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:45:40.217Z)
+[2026-08-03T07:46:21.197Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e22825e error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:45:40.217Z)
+[2026-08-03T07:46:23.229Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e22825f error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:45:40.217Z)
+[2026-08-03T07:46:25.852Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228260 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:45:40.217Z)
+[2026-08-03T07:46:30.671Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228261 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:45:40.217Z)
+[2026-08-03T07:46:36.058Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e228262 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:45:40.217Z)
+[2026-08-03T07:46:40.431Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228263 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:45:40.217Z)
+[2026-08-03T07:46:46.312Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e228264 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:46:21.870Z)
+[2026-08-03T07:46:54.745Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228265 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:46:21.870Z)
+[2026-08-03T07:47:02.938Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e228266 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:46:21.870Z)
+[2026-08-03T07:47:20.392Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e228267 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:46:42.279Z)
+[2026-08-03T07:47:21.274Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228268 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:46:42.279Z)
+[2026-08-03T07:47:38.760Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e228269 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:46:42.279Z)
+[2026-08-03T07:47:55.803Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22826a error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:47:21.674Z)
+[2026-08-03T07:48:23.367Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e22826b error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:47:51.687Z)
+[2026-08-03T07:48:26.666Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22826c error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:47:51.687Z)
+[2026-08-03T07:49:00.487Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e22826d error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:48:32.747Z)
+[2026-08-03T07:49:38.966Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22826e error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:48:32.747Z)
+[2026-08-03T07:50:03.648Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e22826f error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: Client network socket disconnected before secure TLS connection was established (2026-08-03T07:49:26.328Z)
+Error fetching projects: [Error [FirebaseError]: Failed to get document because the client is offline.] {
+  code: 'unavailable',
+  customData: undefined,
+  toString: [Function (anonymous)]
+}
+[2026-08-03T07:50:42.863Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e228270 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:34.540Z)
+Error fetching projects: [Error [FirebaseError]: Failed to get document because the client is offline.] {
+  code: 'unavailable',
+  customData: undefined,
+  toString: [Function (anonymous)]
+}
+[2026-08-03T07:51:07.374Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228271 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:34.540Z)
+[2026-08-03T07:52:04.330Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e228272 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T07:52:18.226Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228273 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T07:53:09.735Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228274 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T07:54:29.449Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228275 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T07:55:38.488Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228276 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T07:57:08.355Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228277 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T07:58:09.653Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228278 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T07:58:51.081Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228279 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T07:58:56.052Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e22827a error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+Error fetching stats: [Error [FirebaseError]: Failed to get document because the client is offline.] {
+  code: 'unavailable',
+  customData: undefined,
+  toString: [Function (anonymous)]
+}
+[2026-08-03T07:59:42.976Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22827b error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:00:08.974Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e22827c error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+Error fetching stats: [Error [FirebaseError]: Failed to get document because the client is offline.] {
+  code: 'unavailable',
+  customData: undefined,
+  toString: [Function (anonymous)]
+}
+Error fetching projects: [Error [FirebaseError]: Failed to get document because the client is offline.] {
+  code: 'unavailable',
+  customData: undefined,
+  toString: [Function (anonymous)]
+}
+Error fetching projects: [Error [FirebaseError]: Failed to get document because the client is offline.] {
+  code: 'unavailable',
+  customData: undefined,
+  toString: [Function (anonymous)]
+}
+[2026-08-03T08:00:54.094Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e22827d error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:01:08.694Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22827e error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:02:33.437Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22827f error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:03:32.364Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228280 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:04:59.269Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228281 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:06:18.609Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228282 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:07:41.071Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228283 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:08:19.431Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228284 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:09:11.070Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228285 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:10:00.254Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228286 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:11:02.595Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228287 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:12:07.014Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228288 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:12:50.052Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228289 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:13:44.177Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22828a error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:15:05.709Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22828b error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:16:33.689Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22828c error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:17:20.137Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22828d error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:18:33.258Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22828e error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:19:09.906Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22828f error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:20:34.314Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228290 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:21:11.927Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228291 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:22:03.390Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228292 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:23:28.866Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228293 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:24:08.606Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228294 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:25:14.547Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228295 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:25:59.618Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228296 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:26:50.872Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228297 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:28:12.777Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228298 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:29:03.568Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e228299 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:30:05.142Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22829a error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:31:13.085Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22829b error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:32:19.197Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22829c error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:32:54.167Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22829d error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:33:51.735Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22829e error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:35:16.695Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e22829f error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:36:34.674Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282a0 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:37:55.085Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282a1 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:38:36.395Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282a2 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:39:29.533Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282a3 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:40:58.082Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282a4 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:41:42.533Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282a5 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:42:16.972Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282a6 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:43:37.628Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282a7 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:44:53.581Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282a8 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:46:00.704Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282a9 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:47:09.512Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282aa error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:47:54.815Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282ab error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:48:31.640Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282ac error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:49:03.268Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282ad error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:49:55.055Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282ae error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:50:59.031Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282af error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:51:37.227Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282b0 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:52:38.167Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282b1 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:53:45.831Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282b2 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:54:46.455Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282b3 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:55:49.022Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282b4 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:56:32.583Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282b5 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:57:43.323Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282b6 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:58:42.947Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282b7 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T08:59:57.362Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282b8 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T09:00:59.351Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282b9 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T09:01:35.407Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282ba error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T09:02:41.026Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282bb error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T09:03:35.081Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282bc error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T09:04:28.337Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282bd error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T09:05:21.338Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282be error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T09:06:43.930Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282bf error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T09:07:17.042Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282c0 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T09:08:25.290Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282c1 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T09:08:58.115Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282c2 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T09:09:53.126Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282c3 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T09:10:52.141Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282c4 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[2026-08-03T09:11:57.201Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282c5 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T07:50:56.484Z)
+[browser] Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly. (<anonymous>)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[2026-08-03T09:26:34.771Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e2282c8 error. Code: 14 Message: 14 UNAVAILABLE: read ECONNRESET
+[2026-08-03T09:26:34.801Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e2282c9 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: connect ENETUNREACH 142.251.37.138:443 (2026-08-03T09:26:34.795Z)
+[2026-08-03T09:26:34.831Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282ca error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: connect ENETUNREACH 142.251.37.138:443 (2026-08-03T09:26:34.795Z)
+[2026-08-03T09:26:34.859Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282cb error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: connect ENETUNREACH 142.251.37.138:443 (2026-08-03T09:26:34.795Z)
+[2026-08-03T09:26:35.862Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e2282cc error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: connect ENETUNREACH 142.251.37.138:443 (2026-08-03T09:26:34.795Z)
+[2026-08-03T09:26:36.168Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282cd error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: connect ENETUNREACH 142.251.37.138:443 (2026-08-03T09:26:34.795Z)
+[2026-08-03T09:26:37.152Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282ce error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: connect ENETUNREACH 142.251.37.138:443 (2026-08-03T09:26:34.795Z)
+[2026-08-03T09:26:38.827Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282cf error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: connect ENETUNREACH 142.251.37.138:443 (2026-08-03T09:26:34.795Z)
+[2026-08-03T09:26:41.855Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282d0 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: connect ENETUNREACH 142.251.37.138:443 (2026-08-03T09:26:34.795Z)
+[2026-08-03T09:26:47.325Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282d1 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: connect ENETUNREACH 142.251.37.138:443 (2026-08-03T09:26:34.795Z)
+[2026-08-03T09:26:55.968Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282d2 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: connect ENETUNREACH 142.251.37.138:443 (2026-08-03T09:26:34.795Z)
+[2026-08-03T09:27:02.120Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282d3 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: connect ENETUNREACH 142.251.37.138:443 (2026-08-03T09:26:34.795Z)
+[2026-08-03T09:27:11.591Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282d4 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: connect ENETUNREACH 142.251.37.138:443 (2026-08-03T09:26:34.795Z)
+[2026-08-03T09:27:30.289Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Write' stream 0x1e2282d5 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: connect ENETUNREACH 142.251.37.138:443 (2026-08-03T09:26:34.795Z)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly. (<anonymous>)
+[browser] Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly. (<anonymous>)
+[browser] Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly. (<anonymous>)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[2026-08-03T15:05:17.124Z]  @firebase/firestore: Firestore (10.14.1): GrpcConnection RPC 'Listen' stream 0x1e2282e0 error. Code: 14 Message: 14 UNAVAILABLE: No connection established. Last error: read ECONNRESET (2026-08-03T15:05:15.938Z)
+Error: Both middleware file "./src\middleware.ts" and proxy file "./src\proxy.ts" are detected. Please use "./src\proxy.ts" only. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+    at ignore-listed frames
+⨯ unhandledRejection: Error: Both middleware file "./src\middleware.ts" and proxy file "./src\proxy.ts" are detected. Please use "./src\proxy.ts" only. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+    at ignore-listed frames
+⨯ unhandledRejection:  Error: Both middleware file "./src\middleware.ts" and proxy file "./src\proxy.ts" are detected. Please use "./src\proxy.ts" only. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+    at ignore-listed frames
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+[browser] Uncaught Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (src/lib/auth.ts:67:1)
+  65 |   const cookieStore = await cookies();
+  66 |   cookieStore.delete('auth-token');
+> 67 | }
+     | ^
+  68 |
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+[browser] Uncaught Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (src/lib/auth.ts:67:1)
+  65 |   const cookieStore = await cookies();
+  66 |   cookieStore.delete('auth-token');
+> 67 | }
+     | ^
+  68 |
+[browser] Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly. (<anonymous>)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+⨯ Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (.next\dev\server\edge\chunks\[root-of-the-server]__1brtndm._.js:99:11)
+[browser] Uncaught Error: Could not parse module '[project]/src/middleware.ts', file not found
+    at module evaluation (src/lib/auth.ts:67:1)
+  65 |   const cookieStore = await cookies();
+  66 |   cookieStore.delete('auth-token');
+> 67 | }
+     | ^
+  68 |
+Error: Both middleware file "./src\middleware.ts" and proxy file "./src\proxy.ts" are detected. Please use "./src\proxy.ts" only. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+    at ignore-listed frames
+⨯ unhandledRejection: Error: Both middleware file "./src\middleware.ts" and proxy file "./src\proxy.ts" are detected. Please use "./src\proxy.ts" only. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+    at ignore-listed frames
+⨯ unhandledRejection:  Error: Both middleware file "./src\middleware.ts" and proxy file "./src\proxy.ts" are detected. Please use "./src\proxy.ts" only. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+    at ignore-listed frames
+[browser] Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly. (<anonymous>)

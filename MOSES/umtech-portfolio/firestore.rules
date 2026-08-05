@@ -1,0 +1,55 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Explicitly define all collections used in the umtech-portfolio project
+    // Note: Due to the custom JWT authentication architecture, all access
+    // is set to 'true' to allow the Next.js API routes to work via the client SDK.
+    // True security is enforced at the API route level.
+    
+    match /users/{document} {
+      allow read, write: if true;
+    }
+    match /admins/{document} {
+      allow read, write: if true;
+    }
+    match /messages/{document} {
+      allow read, write: if true;
+    }
+    match /posts/{document} {
+      allow read, write: if true;
+    }
+    match /projects/{document} {
+      allow read, write: if true;
+    }
+    match /post-comments/{document} {
+      allow read, write: if true;
+    }
+    match /project-comments/{document} {
+      allow read, write: if true;
+    }
+    match /posts-likes/{document} {
+      allow read, write: if true;
+    }
+    match /projects-likes/{document} {
+      allow read, write: if true;
+    }
+    match /posts-shares/{document} {
+      allow read, write: if true;
+    }
+    match /projects-shares/{document} {
+      allow read, write: if true;
+    }
+    match /config/{document} {
+      allow read, write: if true;
+    }
+    match /service-requests/{document} {
+      allow read, write: if true;
+    }
+    
+    // Deny access to any other undocumented collections
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

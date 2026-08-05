@@ -1,0 +1,48 @@
+[
+  {
+    "id": "12414e75-f7fb-4771-8a1b-91b5470776fc",
+    "title": "moisekj",
+    "description": "qllkd",
+    "longDescription": "lkjlkiiKI",
+    "coverImage": "https://chatgpt.com/c/6a4e49d8-4f84-83ea-8ab5-de3dce6cfe04",
+    "technologies": [
+      "REACT",
+      "FIREBASE",
+      "TYPESCRIPT"
+    ],
+    "category": "ECORMERSE",
+    "status": "in-progress",
+    "featured": true,
+    "liveUrl": "https://agent-6a2426419ef3e1282d7887f1--vugmentshop1.netlify.app/",
+    "githubUrl": "",
+    "videoUrl": "",
+    "screenshots": [],
+    "pinned": false,
+    "likes": 0,
+    "shares": 0,
+    "date": "2026-07-08",
+    "createdAt": "2026-07-08T13:05:00.229Z"
+  },
+  {
+    "id": "44041963-0c5d-4ac5-b816-cd2701e9492d",
+    "title": "t3r",
+    "description": "t43",
+    "longDescription": "t43",
+    "coverImage": "http://localhost:3000/admin/projects",
+    "technologies": [
+      "node"
+    ],
+    "category": "",
+    "status": "in-progress",
+    "featured": false,
+    "liveUrl": "",
+    "githubUrl": "",
+    "videoUrl": "",
+    "screenshots": [],
+    "pinned": false,
+    "likes": 0,
+    "shares": 0,
+    "date": "2026-07-16",
+    "createdAt": "2026-07-16T17:25:21.450Z"
+  }
+]

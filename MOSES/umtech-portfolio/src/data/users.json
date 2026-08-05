@@ -1,0 +1,66 @@
+[
+  {
+    "uid": "e5244773-8200-4a60-8110-ec06f187ab9c",
+    "name": "moise",
+    "email": "uwiringiyimanamoise299@gmail.com",
+    "passwordHash": "$2a$12$uRX8ixoGUJnQ7QBoK1Ov6eLrq7gAArfvYI.9NWvBM2PQn/5.5A1DO",
+    "role": "user",
+    "createdAt": "2026-07-07T14:04:46.990Z"
+  },
+  {
+    "uid": "26b5e150-623f-4743-ad1c-eeb7f8ba3e5f",
+    "name": "moise ff323",
+    "email": "uwiringiyimanamoise900@gmail.com",
+    "passwordHash": "$2a$12$HSPJnDeGNwWGRU2W.5mymOb2frCRMGuoa4Pt3mnGQnJomo.KsZduO",
+    "role": "user",
+    "createdAt": "2026-07-07T14:43:00.792Z"
+  },
+  {
+    "uid": "8c67ce8c-4814-4ca9-9999-b29e1ee7903f",
+    "name": "moise",
+    "email": "uwiringiyimanamoise910@gmail.com",
+    "passwordHash": "$2a$12$1q59BBV4akFhzRkXW/YIie/cyg9pybeSqYPhAfuD0W/ZMSceRJL1C",
+    "role": "user",
+    "createdAt": "2026-07-08T10:48:26.111Z"
+  },
+  {
+    "uid": "f35b0763-6899-4ee8-81b0-e19bfcf89967",
+    "name": "moise",
+    "email": "uwiringiyimanamoise39@gmail.com",
+    "passwordHash": "$2a$12$/qGNHjIM8WaqJIwgCxUSv.Y5HjKbjCqCQWoWxXj0xJQUQUqb96TUi",
+    "role": "user",
+    "createdAt": "2026-07-08T11:06:35.100Z"
+  },
+  {
+    "uid": "3726de89-5949-4fef-b427-0399fb7d29a3",
+    "name": "rukundo",
+    "email": "uwiringiyimanamoise49@gmail.com",
+    "passwordHash": "$2a$12$Eg5r5ko7qkWPH/R01nf0PedBZj2hvadZNqp76P8PI/plXAHWVF4qu",
+    "role": "user",
+    "createdAt": "2026-07-08T13:17:09.646Z"
+  },
+  {
+    "uid": "1fc0cc4b-d464-4f05-a011-781f696104e7",
+    "name": "gisubizo",
+    "email": "uwiringiyimanamoise290@gmail.com",
+    "passwordHash": "$2a$12$X4Su7uRbBxusywks2N9pZej8WJCFScwcZ9WNai4/bPFI6/2WSHNA6",
+    "role": "user",
+    "createdAt": "2026-07-08T17:49:18.501Z"
+  },
+  {
+    "uid": "8044e358-a17e-47c9-b5a6-84f5718fd018",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "passwordHash": "$2a$12$uCdg2t9wBODAaKaLbI6gsOXYo3.Cje28uk0XKZld8Hct7F43WUKZC",
+    "role": "user",
+    "createdAt": "2026-07-14T13:35:34.077Z"
+  },
+  {
+    "uid": "dd5caa5a-fb2f-422f-bbc2-df6a764fa36a",
+    "name": "ange",
+    "email": "uwiringiyimanamoise43@gmail.com",
+    "passwordHash": "$2a$12$9Ko8xK5IEEBqV9za3.O6dehVhi7GcnJuT96ykkRMm3eTVo8Dlsgy6",
+    "role": "user",
+    "createdAt": "2026-07-16T17:26:55.749Z"
+  }
+]
